@@ -1,2 +1,2 @@
-# pruebapage.github.io
+# GitHub Pages
 Ejercicio Gihub Page
